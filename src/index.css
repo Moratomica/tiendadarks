@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ahs';
+    src: url('./assets/ahs.otf');
+
+}
+
+@font-face {
+    font-family: 'sabrina';
+    src: url('./assets/sabrina.ttf');
+    
+}
+
+@font-face {
+    font-family: 'nyali';
+    src: url('./assets/nyali.otf');
+    
+}
+
+@font-face {
+    font-family: 'vigran';
+    src: url('./assets/vigran.otf');
+    
+}
