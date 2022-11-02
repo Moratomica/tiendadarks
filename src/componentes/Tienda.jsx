@@ -1,10 +1,10 @@
 import React from 'react'
-import img10 from '../assets/img1.png'
-import img20 from '../assets/img2.png'
-import img30 from '../assets/img3.png'
-import img40 from '../assets/img4.png'
-import img50 from '../assets/img5.png'
-import img60 from '../assets/img6.png'
+import img10 from '../assets/img10.png'
+import img20 from '../assets/img20.png'
+import img30 from '../assets/img30.png'
+import img40 from '../assets/img40.png'
+import img50 from '../assets/img50.png'
+import img60 from '../assets/img60.png'
 
 function Tienda() {
   return (
